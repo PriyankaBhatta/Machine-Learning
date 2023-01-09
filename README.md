@@ -8,3 +8,4 @@ This repository consists of knowledge I gained trough learning **The Hundred Pag
 
 🏆 Day 1 - Introduction to Machine Learning and It's Types
 
+[Introduction.docx](https://github.com/PriyankaBhatta/Machine-Learning/files/10373763/Introduction.docx)
