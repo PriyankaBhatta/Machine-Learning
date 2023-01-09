@@ -7,6 +7,7 @@
 This repository consists of knowledge I gained trough learning **The Hundred Page Machine Learning Book**
 
 🏆 Day 1 - Introduction to Machine Learning and It's Types
+* In the screenshot above, the very basic of Machine Learning i.e it's definition and it's type is mentioned below in easy words.
 
-![introduction](https://user-images.githubusercontent.com/109200742/211326769-b345a19b-4117-4c7b-a712-140560ea1429.png)
 
+![introduction](https://user-images.githubusercontent.com/109200742/211327299-b5c84056-f7f7-4189-bfbd-f782cf8b4b2f.png)
